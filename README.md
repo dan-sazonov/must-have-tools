@@ -3,6 +3,6 @@
 > or help with the translation of this collection into other languages.**
 
 **:russia: Основная версия - [на русском языке](translations/russian.md)**<br><br>
-**Если вы только начинаете изучать  frontend разработку, вам будет полезна эта [подборка](translations/learn_russian.md).**
+**If you are just getting started learning frontend development check out my [collection of learning resources](learn.md).**
 
 ##Contents:
