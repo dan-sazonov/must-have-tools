@@ -5,4 +5,4 @@
 **Основная версия - [на русском языке](translations/russian.md)**<br><br>
 **If you are just getting started learning frontend development check out my [collection of learning resources](learn.md).**
 
-## Contents:
+## Table of Contents:
